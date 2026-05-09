@@ -55,14 +55,17 @@ cd YOUR-REPOSITORY
 
 2. Create and activate a virtual environment:
 
+On Linux/MacOS
+
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 ```
 
 On Windows:
 
 ```bash
+python -m venv .venv
 .venv\Scripts\activate
 ```
 
