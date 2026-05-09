@@ -49,8 +49,8 @@ A Django REST Framework API for creating, managing, searching, and organizing pe
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Secondmib69/Notes-API.git
+cd Notes-API
 ```
 
 2. Create and activate a virtual environment:
