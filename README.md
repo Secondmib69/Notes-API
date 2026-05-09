@@ -141,6 +141,8 @@ After starting the server, open:
 | `POST` | `/auth/registration/` | Register a new account |
 | `POST` | `/auth/login/` | Log in and receive JWT cookies |
 | `POST` | `/auth/logout/` | Log out |
+| `GET, PUT` | `/auth/user/` | User details |
+| `POST` | `/auth/password/change/` | Change password |
 | `POST` | `/auth/password/reset/` | Request password reset |
 | `POST` | `/auth/password/reset/confirm/<uidb64>/<token>/` | Confirm password reset |
 
