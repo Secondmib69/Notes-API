@@ -145,6 +145,8 @@ After starting the server, open:
 | `POST` | `/auth/password/change/` | Change password |
 | `POST` | `/auth/password/reset/` | Request password reset |
 | `POST` | `/auth/password/reset/confirm/<uidb64>/<token>/` | Confirm password reset |
+| `POST` | `/auth/token/verify/` | Verify Token |
+| `POST` | `/auth/token/refresh/` | Refresh Token |
 
 ## Example Note Payload
 
